@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;TypeScript+%26+Next.js;Fuzzy+Logic+Expert;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+Developer;TypeScript+%26+Next.js;Fuzzy+Logic+Expert;UI/UX+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -16,12 +16,13 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-Я **Software Engineer** та **Frontend розробник**, який спеціалізується на створенні сучасних, швидких та зручних вебдодатків. Наразі здобуваю ступінь магістра з інженерії програмного забезпечення в УжНУ та активно практикуюся у розробці інтелектуальних інтерфейсів.
+Я **Frontend розробник**, який спеціалізується на створенні сучасних, швидких та зручних веб-інтерфейсів. Моя робота базується на поєднанні прогресивних технологій (Next.js) та наукових методів аналізу даних для розробки складних інтелектуальних систем.
 
-* 🎓 Студент 5-го курсу магістратури **Ужгородського національного університету**.
-* 💻 Створюю клієнтські частини вебдодатків з використанням **JavaScript, TypeScript, Next.js** та **React**.
-* 🎨 Проектую стильні та адаптивні інтерфейси за допомогою **Tailwind CSS**.
-* 🤖 Маю досвід інтеграції **AI-рішень** (OpenAI API) на стороні фронтенду для SaaS-проєктів.
+* 🎓 Студент 5-го курсу магістратури **Ужгородського національного університету** (Інженерія ПЗ).
+* ⚛️ Спеціалізуюся на побудові інтерфейсів за допомогою **React** та **Next.js (App Router)**.
+* 🧠 Маю досвід реалізації **нечітких моделей (Fuzzy Logic)** у веб-додатках для оцінки ризиків та ресурсів.
+* 🎨 Створюю стильні та адаптивні інтерфейси, використовуючи **Tailwind CSS** та бібліотеки компонентів (**Shadcn/ui**).
+* 🤖 Інтегрую **OpenAI API** для створення інтелектуальних SaaS-рішень на стороні клієнта.
 * 🏔️ Базуюся на Закарпатті, Україна.
 
 <br/>
@@ -44,7 +45,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,mongodb,firebase,html,css,tailwind,git,github,vscode,vercel&theme=dark" alt="Мій Стек" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind,git,github,vscode,vercel,figma&theme=dark" alt="Мій Стек" />
   </a>
 </div>
 
