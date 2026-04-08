@@ -1,16 +1,17 @@
 # Привіт, я Роман Козар! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Full-Stack+Developer;Software+Engineering+Student;Tech+%26+Automotive+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Frontend+Developer;Software+Engineering+Student;Tech+%26+Automotive+Enthusiast" alt="Typing SVG" />
 </div>
 
-Я Full-Stack розробник з фокусом на сучасні вебтехнології, автоматизацію та інтеграцію ШІ. Наразі здобуваю ступінь магістра з інженерії програмного забезпечення в УжНУ та активно розробляю власні SaaS-проєкти та бізнес-рішення.
+Я **Frontend розробник**, який спеціалізується на створенні сучасних, швидких та зручних вебдодатків. Наразі здобуваю ступінь магістра з інженерії програмного забезпечення в УжНУ та активно практикуюся у створенні адаптивних інтерфейсів.
 
 ### 👨‍💻 Про мене
 - 🎓 Студент 5-го курсу магістратури **Ужгородського національного університету**.
-- 💻 Розробляю вебдодатки з використанням **Next.js, React, Tailwind CSS** та хмарних баз даних (Convex, Firebase).
-- 🤖 Цікавлюся інтеграцією **AI-рішень** (OpenAI API), архітектурою SaaS-платформ та оптимізацією розгортання.
-- ⚙️ У вільний час захоплююся мережевими технологіями (Cisco), кібербезпекою та автомобільною діагностикою.
+- 💻 Створюю клієнтські частини вебдодатків з використанням **JavaScript, TypeScript, Next.js** та React.
+- 🎨 Верстаю стильні та адаптивні інтерфейси за допомогою **HTML, CSS та Tailwind CSS**.
+- 🤖 Маю досвід інтеграції **AI-рішень** (OpenAI API) на стороні фронтенду для SaaS-проєктів.
+- ⚙️ У вільний час цікавлюся комп'ютерним залізом, мережевими технологіями та автомобільною діагностикою (VW/VCDS).
 - 🏔️ Базуюся на Закарпатті, Україна.
 
 ---
@@ -19,9 +20,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,css,html&theme=dark" alt="Фронтенд" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind&theme=dark" alt="Фронтенд" />
     <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,git,github,vscode,vercel,firebase&theme=dark" alt="Бекенд та Інструменти" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Інструменти" />
   </a>
 </div>
 
