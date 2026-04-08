@@ -36,14 +36,6 @@
 
 ---
 
-### 📊 Статистика та активність
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomanKozar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Статистика Романа" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKozar&layout=compact&theme=tokyonight&hide_border=true" alt="Топ мов Романа" height="170" />
-</div>
-
----
 
 ### 📫 Як зі мною зв'язатися
 
