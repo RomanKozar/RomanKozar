@@ -4,15 +4,11 @@
 
 </div>
 
-
-
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/KhaledAyman9/KhaledAyman9/master/assets/coder.gif" width="300" alt="Frontend Coding GIF" />
 
 </div>
-
-
 
 <div align="center">
 
@@ -20,23 +16,13 @@
 
 </div>
 
-
-
 ---
-
-
 
 ### 👨‍💻 Про мене
 
-
-
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6bm93M3p6bm93M3p6bm93M3p6bm93M3p6bm93M3p6bm93JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-
-
 Я **Frontend розробник**, який спеціалізується на створенні сучасних, швидких та зручних вебдодатків. Наразі здобуваю ступінь магістра з інженерії програмного забезпечення в УжНУ та активно практикуюся у створенні адаптивних інтерфейсів.
-
-
 
 - 🎓 Студент 5-го курсу магістратури **Ужгородського національного університету**.
 
@@ -48,15 +34,9 @@
 
 - 🏔️ Базуюся на Закарпатті, Україна.
 
-
-
 ---
 
-
-
 ### 🛠 Технології та інструменти
-
-
 
 <div align="center">
 
@@ -68,17 +48,9 @@
 
 </div>
 
-
-
 ---
 
-
-
-
-
 ### 📫 Як зі мною зв'язатися
-
-
 
 <p align="center">
 
