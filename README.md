@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Про мене
 
-<img align="right" width="250" src="https://raw.githubusercontent.com/RomanKozar/RomanKozar/main/frontend-art.svg" alt="Frontend Art" />
+<img align="right" width="250" src="https://media.tenor.com/T09_tZREI_kAAAAC/developer.gif" alt="Frontend Art" />
 
 Я **Frontend розробник**, який спеціалізується на створенні сучасних, швидких та зручних вебдодатків. Наразі здобуваю ступінь магістра з інженерії програмного забезпечення в УжНУ та активно практикуюся у створенні адаптивних інтерфейсів.
 
@@ -23,14 +23,6 @@
 - 🎨 Верстаю стильні та адаптивні інтерфейси за допомогою **HTML, CSS та Tailwind CSS**.
 - 🤖 Маю досвід інтеграції **AI-рішень** (OpenAI API) на стороні фронтенду для SaaS-проєктів.
 - 🏔️ Базуюся на Закарпатті, Україна.
-
----
-
-### 🏆 Мої трофеї GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RomanKozar&theme=darkhub&no-frame=true&column=4&margin-w=15" alt="Трофеї Романа" />
-</div>
 
 ---
 
@@ -47,16 +39,8 @@
 ### 📊 Статистика та активність
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RomanKozar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Статистика Романа" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKozar&layout=compact&theme=tokyonight&hide_border=true" alt="Топ мов Романа" height="180"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=RomanKozar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Статистика Романа" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKozar&layout=compact&theme=tokyonight&hide_border=true" alt="Топ мов Романа" height="180"/>
 </div>
 
 ---
