@@ -1,18 +1,36 @@
-# Привіт, я Роман Козар! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=150&section=header&text=Roman%20Kozar&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Банер Романа" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Frontend+Developer;Software+Engineering+Student;Tech+%26+Automotive+Enthusiast" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/KhaledAyman9/KhaledAyman9/master/assets/coder.gif" width="300" alt="Frontend Coding GIF" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Frontend+Developer;TypeScript+%26+Next.js;Software+Engineering+Student" alt="Typing SVG" />
+</div>
+
+---
+
+### 👨‍💻 Про мене
+
+<img align="right" width="250" src="https://raw.githubusercontent.com/RomanKozar/RomanKozar/main/frontend-art.svg" alt="Frontend Art" />
 
 Я **Frontend розробник**, який спеціалізується на створенні сучасних, швидких та зручних вебдодатків. Наразі здобуваю ступінь магістра з інженерії програмного забезпечення в УжНУ та активно практикуюся у створенні адаптивних інтерфейсів.
 
-### 👨‍💻 Про мене
 - 🎓 Студент 5-го курсу магістратури **Ужгородського національного університету**.
 - 💻 Створюю клієнтські частини вебдодатків з використанням **JavaScript, TypeScript, Next.js** та React.
 - 🎨 Верстаю стильні та адаптивні інтерфейси за допомогою **HTML, CSS та Tailwind CSS**.
 - 🤖 Маю досвід інтеграції **AI-рішень** (OpenAI API) на стороні фронтенду для SaaS-проєктів.
-- ⚙️ У вільний час цікавлюся комп'ютерним залізом, мережевими технологіями та автомобільною діагностикою (VW/VCDS).
 - 🏔️ Базуюся на Закарпатті, Україна.
+
+---
+
+### 🏆 Мої трофеї GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RomanKozar&theme=darkhub&no-frame=true&column=4&margin-w=15" alt="Трофеї Романа" />
+</div>
 
 ---
 
@@ -20,19 +38,25 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind&theme=dark" alt="Фронтенд" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Інструменти" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind,git,github,vscode&theme=dark" alt="Мій Стек" />
   </a>
 </div>
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 Статистика та активність
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomanKozar&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Статистика Романа" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKozar&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Топ мов" height="150"/>
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=RomanKozar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Статистика Романа" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKozar&layout=compact&theme=tokyonight&hide_border=true" alt="Топ мов Романа" height="180"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
