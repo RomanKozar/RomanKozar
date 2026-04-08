@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Про мене
 
-<img align="right" width="250" src="https://media.tenor.com/T09_tZREI_kAAAAC/developer.gif" alt="Frontend Art" />
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6bm93M3p6bm93M3p6bm93M3p6bm93M3p6bm93M3p6bm93JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 Я **Frontend розробник**, який спеціалізується на створенні сучасних, швидких та зручних вебдодатків. Наразі здобуваю ступінь магістра з інженерії програмного забезпечення в УжНУ та активно практикуюся у створенні адаптивних інтерфейсів.
 
@@ -39,8 +39,8 @@
 ### 📊 Статистика та активність
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RomanKozar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Статистика Романа" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKozar&layout=compact&theme=tokyonight&hide_border=true" alt="Топ мов Романа" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RomanKozar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Статистика Романа" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanKozar&layout=compact&theme=tokyonight&hide_border=true" alt="Топ мов Романа" height="170" />
 </div>
 
 ---
