@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=150&section=header&text=Roman%20Kozar&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Банер Романа" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=150&section=header&text=Roman%20Kozar&fontSize=50&animation=fadeIn&fontAlignY=40" alt="Roman's Banner" />
 </div>
 
 <div align="center">
@@ -12,24 +12,24 @@
 
 ---
 
-### 👨‍💻 Про мене
+### 👨‍💻 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-Я **Frontend розробник**, який спеціалізується на створенні сучасних, швидких та зручних веб-інтерфейсів. Моя робота базується на поєднанні прогресивних технологій (Next.js) та наукових методів аналізу даних для розробки складних інтелектуальних систем.
+I am a **Frontend Developer** specializing in building modern, fast, and user-friendly web interfaces. My work bridges the gap between progressive technologies like Next.js and scientific data analysis methods to develop complex intelligent systems.
 
-* 🎓 Студент 5-го курсу магістратури **Ужгородського національного університету** (Інженерія ПЗ).
-* ⚛️ Спеціалізуюся на побудові інтерфейсів за допомогою **React** та **Next.js (App Router)**.
-* 🧠 Маю досвід реалізації **нечітких моделей (Fuzzy Logic)** у веб-додатках для оцінки ризиків та ресурсів.
-* 🎨 Створюю стильні та адаптивні інтерфейси, використовуючи **Tailwind CSS** та бібліотеки компонентів (**Shadcn/ui**).
-* 🤖 Інтегрую **OpenAI API** для створення інтелектуальних SaaS-рішень на стороні клієнта.
-* 🏔️ Базуюся на Закарпатті, Україна.
+* 🎓 5th-year Master's student in **Software Engineering** at Uzhhorod National University.
+* ⚛️ Specialized in building interfaces using **React** and **Next.js (App Router)**.
+* 🧠 Experienced in implementing **Fuzzy Logic models** within web applications for risk assessment and resource forecasting.
+* 🎨 Crafting stylish and responsive interfaces using **Tailwind CSS** and component libraries like **Shadcn/ui**.
+* 🤖 Integrating **OpenAI API** to build intelligent client-side SaaS solutions.
+* 🏔️ Based in Zakarpattia, Ukraine.
 
 <br/>
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomanKozar&theme=tokyonight" alt="GitHub Profile Summary" />
@@ -41,17 +41,17 @@
 
 ---
 
-### 🛠 Технології та інструменти
+### 🛠 Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind,git,github,vscode,vercel,figma&theme=dark" alt="Мій Стек" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,tailwind,git,github,vscode,vercel,figma&theme=dark" alt="My Stack" />
   </a>
 </div>
 
 ---
 
-### 📫 Як зі мною зв'язатися
+### 📫 Get in Touch
 
 <p align="center">
   <a href="mailto:kozarrma2004@gmail.com">
