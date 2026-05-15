@@ -11,7 +11,6 @@ I am a **Frontend Developer** specializing in building modern, fast, and user-fr
 * ⚛️ Specialized in building interfaces using **React** and **Next.js (App Router)**.
 * 🧠 Experienced in implementing **Fuzzy Logic models** within web applications for risk assessment and resource forecasting.
 * 🎨 Crafting stylish and responsive interfaces using **Tailwind CSS** and component libraries like **Shadcn/ui**.
-* 🤖 Integrating **OpenAI API** to build intelligent client-side SaaS solutions.
 * 🏔️ Based in Zakarpattia, Ukraine.
 
 <br/>
